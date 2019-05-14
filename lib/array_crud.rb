@@ -7,7 +7,7 @@ elements = ["Earth","Air","Wind","Fire"]
 end
 
 def add_element_to_end_of_array(array, element)
-  elements << "Metal"
+  [elements] << "Metal"
 end
 
 def add_element_to_start_of_array(array, element)
