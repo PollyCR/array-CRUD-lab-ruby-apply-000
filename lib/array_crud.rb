@@ -11,7 +11,7 @@ array << "Metal"
 end
 
 def add_element_to_start_of_array(array, element)
-  elements.shift("Wood")
+  array.shift("Wood")
   
 end
 
