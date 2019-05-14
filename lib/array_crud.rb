@@ -7,11 +7,11 @@ elements = ["Earth","Air","Wind","Fire"]
 end
 
 def add_element_to_end_of_array(array, element)
-array << "Metal"
+array << "element"
 end
 
 def add_element_to_start_of_array(array, element)
-  array.shift("Wood")
+  array.shift("element")
   
 end
 
