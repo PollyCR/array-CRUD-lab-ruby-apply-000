@@ -11,12 +11,12 @@ array << element
 end
 
 def add_element_to_start_of_array(array, element)
-  array.shift("element")
+  array.shift(element_
   
 end
 
 def remove_element_from_end_of_array(array)
-  elements.pop
+  array.pop
 end
 
 def remove_element_from_start_of_array(array)
